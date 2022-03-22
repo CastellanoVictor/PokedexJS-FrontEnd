@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+
+:root{
+    --pokedex-rojo: red;
+    --pokedex--blanco: white;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    height: 100%;
+}
+
+
+.div1 {
+    background-color: rgb(255, 255, 255);
+}
+
+.div2 {
+    background-color: rgb(255, 255, 255);
+}
+
